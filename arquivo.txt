@@ -1,0 +1,47 @@
+O que é Git?
+Um software de controle de versão (vcs)
+
+O que é GitHub?
+Plataforma de Rede Social para Programadores
+
+=============================
+GIT(vcs)
+versionamento
+
+exem
+site-cliente
+site-cliente.zip
+site-cliente-v2.zip
+
+
+centralizado/linear = commit -> repositorio central
+*CVS
+*SVN
+
+distribuido = commit -> repositorio local e no fim push para o repositorio remoto
+*BitKeeper
+*Git
+
+vantagens 
+controle de histórico
+trabalho em equipe
+ramificação do projeto
+segurança
+organização
+
+
+=============================
+Git é o repositorio local 
+GitHub é o repositorio remoto
+
+
+GITHUB
+repositorios ilimitados
+hospedagem de codigo fonte
+caracteristicas de rede Social
+github pages integrado
+colaboracao
+forks
+
+tem tambem o gitlab, bitbucket e outros
+
