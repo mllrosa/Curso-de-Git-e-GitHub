@@ -45,3 +45,7 @@ forks
 
 tem tambem o gitlab, bitbucket e outros
 
+=============================
+
+precisa instalar o git scm(source code managem)
+e github desktop
