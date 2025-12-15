@@ -18,8 +18,28 @@ para varios programadores trabalharem em um projeto é necessario abrir uma bran
 
 no fim do dia o git consegue fundir(mesclar/combinar) tudo com o comando Merge no repositorio principal
 pode ocorrer conflitos
+==========
+
+
+o github é um servico que serve para hospedar e armazenar repositorios git
+sem a necessidade de um monte de configuracoes de rede e outras
+
+alem do github tem tambem o gitlab, bitbucket
+tem empresas que salvam no proprio servidor por questao de segurança e confidencialidade(da pra fazer isso pela hostinger) mas tem q ser um que aguenta
 
 
 
+http://git-scm.com/
+na instalacao é importante escolher o editor, como inicio escolhi o notepad(bloco de notas msm)
 
+a principal forma de usar é pelo cmd(prompt de comando)
+git --version (digitado)
+git version 2.52.0.windows.1 (se retornar a versao, foi instalado)
+
+=================================
+outra maneira é pelo git bash
+git --version (digitado)
+git version 2.52.0.windows.1 (se retornar a versao, foi instalado)
+
+tem interface grafica mas é melhor usar a linha de comando do que interface grafica, até pra enteder melhor
 
