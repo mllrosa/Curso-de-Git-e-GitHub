@@ -1,0 +1,25 @@
+GIT x GITHUB
+
+Git é um sistema de controle de versao
+funciona em qualquer linguagem de programação
+
+git é um software de controle de versao(scv)
+
+commit é mandar o git salvar o historico, uma versao 
+salvar uma versao ou uma modificacao no historico do Git
+
+ele nao sobscreve, ele guarda a versao antiga enquanto voce escreve novas 
+
+todo prjeto que usa git fica salvo em um repositorio e esse repositorio pode ficar em um servidor externo ou local(na maquina)
+
+
+
+para varios programadores trabalharem em um projeto é necessario abrir uma branch que é como uma versao daquele projeto isolada so para voce
+
+no fim do dia o git consegue fundir(mesclar/combinar) tudo com o comando Merge no repositorio principal
+pode ocorrer conflitos
+
+
+
+
+
